@@ -1,0 +1,10 @@
+My GitHub Project
+Hello! Welcome to my project.
+Created by: PRIYAN-24
+Repository: samsungminiproject
+
+About: This file is created to demonstrate GitHub file sharing and read-only access.
+Purpose:
+To share project information.
+To allow others to view the content.
+To demonstrate public repository access.
